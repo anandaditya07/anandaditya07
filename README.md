@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Anand</h1>
 <h3 align="center">A Computer Science Engineering student and frontend-focused developer from India with a strong interest in data-driven and AI-powered applications.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandaditya07" alt="anandaditya07" /></a> </p>
+
 
 - 🔭 I’m currently working on **Smart Energy Consumption Analysis and Prediction using Machine Learning with Device-Level Insights**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aditya-anand-989033298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-anand-989033298" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya-anand-989033298" target="blank">a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
